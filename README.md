@@ -13,5 +13,9 @@
 5. Display_Output : https://github.com/shankarcmalnayak20-ops/Mark_Management_System_project/blob/main/Display_output_picture.png
 
 
+6. Report_Output : https://github.com/shankarcmalnayak20-ops/Mark_Management_System_project/blob/main/Report_output_picture.png
+
+
+
 
 
